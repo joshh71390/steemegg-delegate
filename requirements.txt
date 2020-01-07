@@ -1,7 +1,7 @@
 appdirs==1.4.3
 certifi==2019.3.9
 chardet==3.0.4
-DelegatorBot==1.0.3
+DelegatorBot==1.1.8
 ecdsa==0.13.2
 funcy==1.12
 future==0.17.1
